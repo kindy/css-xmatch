@@ -1,6 +1,6 @@
 # css-xmatch
 
-```css
+```less
 [x-scroll-match="y=0"] {
   // when scroll is at top
 }
