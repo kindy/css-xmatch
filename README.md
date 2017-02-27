@@ -4,6 +4,7 @@
 ## scroll-match
 
 [Prototype Demo](https://codepen.io/kindy/pen/vxEoQN?editors=0100) at codepen.
+This idea come from [css-element-queries](https://github.com/marcj/css-element-queries)
 
 ```less
 [x-scroll-match="y=0"] {
